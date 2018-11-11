@@ -1,6 +1,9 @@
-#main {
-    /* add CSS here */
-}
-.pet {
-    /* add CSS here */
+.pet{
+
+    margin: auto;
+    max-width: 400px;
+    box-shadow: 0 0 20px 5px black;
+    cursor: grab;
+    border: chocolate;
+    border-radius: initial;
 }
